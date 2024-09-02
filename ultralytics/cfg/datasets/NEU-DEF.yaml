@@ -1,0 +1,14 @@
+path: /home/zez/Workplace/ultralytics-8.2.0/NEU-DEF
+train: /home/zez/Workplace/ultralytics-8.2.0/NEU-DEF/train.txt
+val: /home/zez/Workplace/ultralytics-8.2.0/NEU-DEF/val.txt
+
+# Classes
+nc: 6
+
+names: ["crazing", "inclusion", "patches", "pitted_surface", "rolled-in_scale", "scratches"]
+  # 0: crazing
+  # 1: inclusion
+  # 2: patches
+  # 3: pitted_surface
+  # 4: rolled-in_scale
+  # 5: scratches
